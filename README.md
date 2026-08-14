@@ -1,2 +1,2 @@
-# Adarsha-LTD
-This is my 1st Git repository
+# Adarsha-Demo
+This is my 1st Git repository..
